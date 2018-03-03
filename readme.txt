@@ -10,7 +10,7 @@ Someone will be notified by e-mail After logging.
 
 == Description ==
 
-<p>Someone will be notified by e-mail After logging.</p>
+Someone will be notified by e-mail After logging.
 
 == Installation ==
 

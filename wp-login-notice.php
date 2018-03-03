@@ -1,14 +1,14 @@
 <?php
 /*
   Plugin Name: WP Login Notice
-  Plugin URI: http://beek.jp/wp-login-notice/
+  Plugin URI: https://github.com/yoshida-san/wp-login-notice
   Description: Someone will be notified by e-mail After logging.
   Version: 1.3.0
   Author: Satoshi Yoshida
-  Author URI: http://beek.jp
+  Author URI: https://github.com/yoshida-san/wp-login-notice
   License: GPLv2 or later
  */
-/*  Copyright 2015 Satoshi Yoshida (email : s-yoshida@beek.jp)
+/*  Copyright 2015 Satoshi Yoshida (email : yos.3104@gmail.com)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as
